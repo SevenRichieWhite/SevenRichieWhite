@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```
+```yaml
 ---
 character:
   private:
@@ -11,5 +11,6 @@ character:
     company: "heartcode.dev"
   links:
     - title: "Website"
-      link: "https://heartcode.dev"  
+      link: "https://heartcode.dev"
+---  
 ```
