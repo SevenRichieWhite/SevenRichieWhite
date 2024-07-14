@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-```yaml
-character:
-  name: "Severin Weiß"
-    private:
-      birtday: "21.02.1987"
-      country: "Deutschland"
-      city: "Saarwellingen"
-      company: "heartcode.dev"
-  links:
-    - title: "Website"
-      link: "https://heartcode.dev"
+```css
+/* Allgemeine Informationen */
+:root {
+    --name: "Severin Weiß";
+    --birtday: "21.02.1987";
+    --city: "Saarwellingen, Deutschland"
+    --languages: "HTML, CSS, JavaScript, PHP";
+    --fun-fact: "Ich kann einen Bug fixen, bevor der Kaffee kalt wird!";
+}
+
+/* Links & Co. */
+#theCompany {
+    --title: "heartcode.dev";
+    --job: "Webdesign, Webentwicklung, SEO und mehr..."
+    --link: "https://heartcode.dev";
+}
 ```
