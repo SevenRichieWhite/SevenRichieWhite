@@ -6,7 +6,7 @@
     --name: "Severin Weiß";
     --birtday: "21.02.1987";
     --city: "Saarwellingen, Deutschland"
-    --lang: "HTML, CSS, JavaScript, PHP";
+    --dev: "HTML, CSS, JavaScript, PHP";
     --fun-fact: "Ich kann einen Bug fixen, bevor der Kaffee kalt wird!";
 }
 
@@ -14,6 +14,6 @@
 #theCompany {
     --title: "heartcode.dev";
     --job: "Webdesign, Webentwicklung, SEO und mehr..."
-    --url: "https://heartcode.dev";
+    --company-url: "https://heartcode.dev";
 }
 ```
